@@ -217,7 +217,8 @@ textarea{
     display: flex;
     justify-content: space-evenly;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 
