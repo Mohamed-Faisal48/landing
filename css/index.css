@@ -460,7 +460,7 @@ textarea{
     border: none;
 }
 
-@media  screen and (max-width: 960px) {
+@media  screen and (max-width: 570px) {
 
     html{
         transition: all .3s ease;
