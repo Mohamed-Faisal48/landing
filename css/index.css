@@ -35,7 +35,7 @@ section{
 }
 
 #home{
-    background-image: url(/single/img/banner.jpg);
+    background-image: url(img/banner.jpg);
     background-position: center;
     background-size: cover;
 }
