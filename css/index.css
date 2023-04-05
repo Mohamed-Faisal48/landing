@@ -953,6 +953,10 @@ textarea{
     font-size: 25px;
     margin-bottom: 90px;
 }
-
+.box ul li{
+    padding-bottom: 12px;
+    color: #808088;
+    font-size: 14px;
+}
 
 }
