@@ -798,7 +798,7 @@ textarea{
 
 .box > div{
     width: 210px;
-    height: 550px;
+    height: 450px;
     border: 1px solid #ffff;
     margin-bottom: 50px;
 }
@@ -957,6 +957,7 @@ textarea{
     padding-bottom: 12px;
     color: #808088;
     font-size: 14px;
+    trxt-align: center;
 }
 
 }
