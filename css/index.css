@@ -748,8 +748,8 @@ textarea{
     }
     
     .round > div{
-        width: 200px;
-        height: 130px;
+        width: fit-content;
+        height: fit-content;
         margin-bottom: 60px;
         border: 1px solid #f3f3f3;
         box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
@@ -821,7 +821,7 @@ textarea{
 
 .box > div{
     width: 210px;
-    height: 500px;
+    height: 530px;
     border: 1px solid #ffff;
     margin-bottom: 50px;
 }
@@ -987,7 +987,6 @@ textarea{
 
 .navbar ul {
     display: block;
-   
     position: absolute;
     right: 10px;
     top: 43px;
