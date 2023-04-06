@@ -246,16 +246,13 @@ textarea{
 }
 
 .box ul{
-    margin-top: 30px;
-    
+    margin-top: 30px;  
 }
 
 .box ul li{
     padding-bottom: 15px;
     color: #808088;
     font-size: 18px;
-    
-    
 }
 
 .box1 .top{
@@ -263,8 +260,7 @@ textarea{
 }
 
 .box1 {
-    background-color: #ffffff;
-    
+    background-color: #ffffff;  
 }
 .box2 .middle{
     background-color: #92C705;color: #ffff;
@@ -560,7 +556,7 @@ textarea{
 }
 
 .box button{
-    padding: 10px;
+    padding: 6px;
     width: 70%;
     background-color: #D4560F;
     color: #ffff;
@@ -832,6 +828,10 @@ textarea{
     align-items: center;
 }
 
+.box ul li{
+    Padding-right: 5px;
+}
+
 .box button{
     padding: 10px;
     width: 70%;
@@ -846,6 +846,7 @@ textarea{
     flex-direction: column;
     align-items: center;
 }
+
 
 
 .whole > div{
