@@ -1007,5 +1007,6 @@ textarea{
     border: 2px solid red;
     padding-top: 12px;
 }
-
+.box ul li{
+    text-align: center
 }
